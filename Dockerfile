@@ -5,7 +5,7 @@ SHELL ["/bin/bash", "-c"]
 ENV DEBIAN_FRONTEND=noninteractive
 RUN apt-get update -y && apt-get install -y wget unzip git git-lfs
 
-ARG GODOT_VERSION="4.3"
+ARG GODOT_VERSION="4.4"
 ARG RELEASE_NAME="stable"
 ARG GODOT_PLATFORM="linux.x86_64"
 
