@@ -1,6 +1,6 @@
 # Fork information
 
-Čia yra nuforkinta repo GitHub testavimui su Godot 4.4 versija
+Čia yra nuforkinta repo GitHub testavimui su Godot 4.4 versija.
 
 # godot4-gut-testing
 
